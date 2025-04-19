@@ -1,0 +1,1 @@
+rsync -av ../cdda-aftershock-content-only-workflow/data/mods/aftershock_exoplanet/* ./
