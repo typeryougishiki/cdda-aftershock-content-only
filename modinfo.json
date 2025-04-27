@@ -1,8 +1,8 @@
 [
   {
     "type": "MOD_INFO",
-    "id": "aftershock-content-only1",
-    "name": "1Aftershock-Content only",
+    "id": "aftershock-content-only",
+    "name": "Aftershock-Content only",
     "authors": [ "Esther", "Coolthulu", "Maleclypse", "Candlebury", "Mom_Bun" ],
     "maintainers": [ "Maleclypse", "Candlebury", "Mom_Bun", "Drew4484" ],
     "description": "Moving towards a survival horror full conversion mod set in a mostly abandoned extrasolar colony far from Earth hundreds of years from today.",
